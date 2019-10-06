@@ -10,6 +10,7 @@ namespace Inherintance4
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
