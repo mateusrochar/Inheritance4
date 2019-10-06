@@ -23,7 +23,7 @@ namespace Inherintance4.Entities
             ValuePerHour = valuePerHour;
         }
 
-        public double Payment()
+        public virtual double Payment()
         {
             return Hours * ValuePerHour;
         }
